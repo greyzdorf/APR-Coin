@@ -4,7 +4,7 @@
 
 This repo consists of the smart contract for the APR digital share issued by Greyzdorf BTR LLC on 28-02-2020, backing the property Glass Apple Estate, Alto, Georgia.
 
-## Specification of the Property & Digital Share (APR) :
+### Specification of the Property & Digital Share (APR) :
 
 - Written in : Solidity v6.0.3 (Latest by this time)<br />
 - Blockchain : Ethereum<br />
@@ -19,22 +19,22 @@ This repo consists of the smart contract for the APR digital share issued by Gre
 - Freeze : available<br />
 - Type of Asset : Real Estate Backed<br />
 
-## Need for the digital Share :
+### Need for the digital Share :
 
 1. *Providing Flexiblity for Fractional Digital Lending in Real Estate
 1. *High-Transparency & Decentralization
 
-## Benefits of HODL :
+### Benefits of HODL :
 
 1. **6-12%** Annual Interest Rates secured by real-estate
 1. Making blockchain lending much simpler & risk-free
 
-## Features of Smart Contract :
+### Features of Smart Contract :
 
 1. Decentralized Lender Database 
 1. Minting & Burning to ensure that it stays intact with lending amount
 1. Freeze & Whitelisting features to prevent AML
 1. Exclusive Lender adding & removal features
 
-## Contributors
+### Contributors
 Developed by Greyzdorf BTR LLC Technical Team on 28-02-2020
