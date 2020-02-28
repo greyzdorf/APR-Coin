@@ -4,36 +4,37 @@
 
 This repo consists of the smart contract for the APR digital share issued by Greyzdorf BTR LLC on 28-02-2020, backing the property Glass Apple Estate, Alto, Georgia.
 
-> Specification of the Property & Digital Share (APR) :
+## Specification of the Property & Digital Share (APR) :
 
-Written in : Solidity v6.0.3 (Latest by this time)<br />
-Blockchain : Ethereum<br />
-Backed By : Glass Apple Farm Property<br />
-Valuation : $8.5 Million - 27-02-2020<br />
-Ticker : APR<br />
-TotalSupply : Variable Supply<br />
-Decimal : 0<br />
-Burning : available<br />
-Minting : available<br />
-Whitelisting : available<br />
-Freeze : available<br />
-Type of Asset : Real Estate Backed<br />
+- Written in : Solidity v6.0.3 (Latest by this time)<br />
+- Blockchain : Ethereum<br />
+- Backed By : Glass Apple Farm Property<br />
+- Valuation : $8.5 Million - 27-02-2020<br />
+- Ticker : APR<br />
+- TotalSupply : Variable Supply<br />
+- Decimal : 0<br />
+- Burning : available<br />
+- Minting : available<br />
+- Whitelisting : available<br />
+- Freeze : available<br />
+- Type of Asset : Real Estate Backed<br />
 
-> Need for the digital Share :
+## Need for the digital Share :
 
-#### *Providing Flexiblity for Fractional Digital Lending in Real Estate
-#### *High-Transparency & Decentralization
+1. *Providing Flexiblity for Fractional Digital Lending in Real Estate
+1. *High-Transparency & Decentralization
 
-> Benefits of HODL :
+## Benefits of HODL :
 
-#### *6-12% Annual Interest Rates secured by real-estate
-#### Making blockchain lending much simpler & risk-free
+1. **6-12%** Annual Interest Rates secured by real-estate
+1. Making blockchain lending much simpler & risk-free
 
-> Features of Smart Contract :
+## Features of Smart Contract :
 
-###### Decentralized Lender Database 
-###### Minting & Burning to ensure that it stays intact with lending amount
-###### Freeze & Whitelisting features to prevent AML
-###### Exclusive Lender adding & removal features
+1. Decentralized Lender Database 
+1. Minting & Burning to ensure that it stays intact with lending amount
+1. Freeze & Whitelisting features to prevent AML
+1. Exclusive Lender adding & removal features
 
-> Developed by Greyzdorf BTR LLC Technical Team on 28-02-2020
+## Contributors
+Developed by Greyzdorf BTR LLC Technical Team on 28-02-2020
