@@ -62,7 +62,7 @@ contract APR is SafeMath {
     string public constant symbol = "APR";
     uint256 public constant decimals = 0;
     uint256 public totalSupply = 0;
-    uint256 public constant version = "1";
+    uint256 public constant version = 1;
     address public owner;
     uint256 public lendersCount;
     
