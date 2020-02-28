@@ -36,5 +36,36 @@ This repo consists of the smart contract for the APR digital share issued by Gre
 1. Freeze & Whitelisting features to prevent AML
 1. Exclusive Lender adding & removal features
 
+### SafeMath Function:
+```solidity
+contract SafeMath {
+    
+  function safeMul(uint256 a, uint256 b) pure internal returns (uint256) {
+    uint256 c = a * b;
+    assert(a == 0 || c / a == b);
+    return c;
+  }
+
+  function safeDiv(uint256 a, uint256 b) pure internal returns (uint256) {
+    assert(b > 0);
+    uint256 c = a / b;
+    assert(a == b * c + a % b);
+    return c;
+  }
+
+  function safeSub(uint256 a, uint256 b) pure internal returns (uint256) {
+    assert(b <= a);
+    return a - b;
+  }
+
+  function safeAdd(uint256 a, uint256 b) pure internal returns (uint256) {
+    uint256 c = a + b;
+    assert(c>=a && c>=b);
+    return c;
+  }
+
+}
+```
+
 ### Contributors
 Developed by Greyzdorf BTR LLC Technical Team on 28-02-2020
