@@ -4,6 +4,7 @@
 *Deployed to Ethereum Mainnet on 28-02-2020
 *Developed by the Technical Team of Greyzdorf BTR LLC
 
+Contract Address : 0xff73C2999E093300330E760d45ef4c6239898EEF
 Backed By : Glass Apple Farm Property
 Valuation : $8.5 Million - 27-02-2020
 Ticker : APR
