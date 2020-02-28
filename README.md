@@ -2,7 +2,9 @@
 
 > Asset backed Securities Developed by Greyzdorf BTR LLC
 
-> [Property Information](https://exchange.greyzdorf.io/listed/apr)
+<img src="https://www.greyzdorf.io/images/svg/apr.svg" style="margin-left:20px" width="200" height="200" />
+
+> [More Information](https://exchange.greyzdorf.io/listed/apr)
 
 This repo consists of the smart contract for the APR digital share issued by Greyzdorf BTR LLC on 28-02-2020, backing the property Glass Apple Estate, Alto, Georgia.
 
