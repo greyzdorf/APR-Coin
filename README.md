@@ -2,7 +2,7 @@
 
 > Asset backed Securities Developed by Greyzdorf BTR LLC
 
-<img src="https://www.greyzdorf.io/images/svg/apr.svg" style="margin-left:20px" width="200" height="200" />
+<img src="https://www.greyzdorf.io/images/svg/apr.svg" style="margin-left:20px" width="220" height="220" />
 
 > [More Information](https://exchange.greyzdorf.io/listed/apr)
 
