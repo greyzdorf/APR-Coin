@@ -22,6 +22,8 @@ This repo consists of the smart contract for the APR digital share issued by Gre
 - Whitelisting : available<br />
 - Freeze : available<br />
 - Type of Asset : Real Estate Backed<br />
+- Old Contract Address : 0xff73c2999e093300330e760d45ef4c6239898eef
+- New Contract Address : 0x702D4A36b5040c6A2944FA5d04728c0f1350C6A4
 
 ### Need for the digital Share :
 
